@@ -1,0 +1,463 @@
+[
+  {
+    "klient": "ROSSMANN, spol. s r.o.",
+    "ic": "61246093",
+    "objednavky": [
+      {
+        "zakazka": "RO0001",
+        "dodavky": [
+          {
+            "datumVyroby": "2017-01-01T00:00:00",
+            "pocetVyrobenychKusu": "7"
+          },
+          {
+            "datumVyroby": "2017-02-01T00:00:00",
+            "pocetVyrobenychKusu": "2"
+          },
+          {
+            "datumVyroby": "2017-03-01T00:00:00",
+            "pocetVyrobenychKusu": "14"
+          },
+          {
+            "datumVyroby": "2017-04-01T00:00:00",
+            "pocetVyrobenychKusu": "15"
+          },
+          {
+            "datumVyroby": "2017-05-01T00:00:00",
+            "pocetVyrobenychKusu": "5"
+          },
+          {
+            "datumVyroby": "2017-06-01T00:00:00",
+            "pocetVyrobenychKusu": "16"
+          },
+          {
+            "datumVyroby": "2017-07-01T00:00:00",
+            "pocetVyrobenychKusu": "21"
+          },
+          {
+            "datumVyroby": "2017-08-01T00:00:00",
+            "pocetVyrobenychKusu": "22"
+          },
+          {
+            "datumVyroby": "2017-09-01T00:00:00",
+            "pocetVyrobenychKusu": "17"
+          },
+          {
+            "datumVyroby": "2017-10-01T00:00:00",
+            "pocetVyrobenychKusu": "6"
+          },
+          {
+            "datumVyroby": "2017-11-01T00:00:00",
+            "pocetVyrobenychKusu": "11"
+          },
+          {
+            "datumVyroby": "2017-12-01T00:00:00",
+            "pocetVyrobenychKusu": "16"
+          },
+          {
+            "datumVyroby": "2018-01-01T00:00:00",
+            "pocetVyrobenychKusu": "19"
+          },
+          {
+            "datumVyroby": "2018-02-01T00:00:00",
+            "pocetVyrobenychKusu": "25"
+          },
+          {
+            "datumVyroby": "2018-03-01T00:00:00",
+            "pocetVyrobenychKusu": "12"
+          },
+          {
+            "datumVyroby": "2018-04-01T00:00:00",
+            "pocetVyrobenychKusu": "17"
+          }
+        ]
+      },
+      {
+        "zakazka": "RO0002",
+        "dodavky": [
+          {
+            "datumVyroby": "2017-06-01T00:00:00",
+            "pocetVyrobenychKusu": "16"
+          },
+          {
+            "datumVyroby": "2017-07-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "klient": "Alfmeier CZ s.r.o.",
+    "ic": "26167492",
+    "objednavky": [
+      {
+        "zakazka": "AL0001",
+        "dodavky": [
+          {
+            "datumVyroby": "2017-01-01T00:00:00",
+            "pocetVyrobenychKusu": "23"
+          },
+          {
+            "datumVyroby": "2017-02-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          },
+          {
+            "datumVyroby": "2017-03-01T00:00:00",
+            "pocetVyrobenychKusu": "12"
+          },
+          {
+            "datumVyroby": "2017-04-01T00:00:00",
+            "pocetVyrobenychKusu": "13"
+          },
+          {
+            "datumVyroby": "2017-05-01T00:00:00",
+            "pocetVyrobenychKusu": "13"
+          },
+          {
+            "datumVyroby": "2017-06-01T00:00:00",
+            "pocetVyrobenychKusu": "20"
+          },
+          {
+            "datumVyroby": "2017-07-01T00:00:00",
+            "pocetVyrobenychKusu": "12"
+          },
+          {
+            "datumVyroby": "2017-08-01T00:00:00",
+            "pocetVyrobenychKusu": "10"
+          },
+          {
+            "datumVyroby": "2017-09-01T00:00:00",
+            "pocetVyrobenychKusu": "22"
+          },
+          {
+            "datumVyroby": "2017-10-01T00:00:00",
+            "pocetVyrobenychKusu": "9"
+          },
+          {
+            "datumVyroby": "2017-11-01T00:00:00",
+            "pocetVyrobenychKusu": "6"
+          },
+          {
+            "datumVyroby": "2017-12-01T00:00:00",
+            "pocetVyrobenychKusu": "13"
+          },
+          {
+            "datumVyroby": "2018-01-01T00:00:00",
+            "pocetVyrobenychKusu": "6"
+          },
+          {
+            "datumVyroby": "2018-02-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          },
+          {
+            "datumVyroby": "2018-03-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          },
+          {
+            "datumVyroby": "2018-04-01T00:00:00",
+            "pocetVyrobenychKusu": "2"
+          }
+        ]
+      },
+      {
+        "zakazka": "AL0002",
+        "dodavky": [
+          {
+            "datumVyroby": "2018-01-01T00:00:00",
+            "pocetVyrobenychKusu": "0"
+          },
+          {
+            "datumVyroby": "2018-02-01T00:00:00",
+            "pocetVyrobenychKusu": "16"
+          },
+          {
+            "datumVyroby": "2018-03-01T00:00:00",
+            "pocetVyrobenychKusu": "12"
+          },
+          {
+            "datumVyroby": "2018-04-01T00:00:00",
+            "pocetVyrobenychKusu": "3"
+          }
+        ]
+      },
+      {
+        "zakazka": "AL0003",
+        "dodavky": [
+          {
+            "datumVyroby": "2018-05-01T00:00:00",
+            "pocetVyrobenychKusu": "2"
+          },
+          {
+            "datumVyroby": "2018-06-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          },
+          {
+            "datumVyroby": "2018-07-01T00:00:00",
+            "pocetVyrobenychKusu": "3"
+          },
+          {
+            "datumVyroby": "2018-08-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          },
+          {
+            "datumVyroby": "2018-09-01T00:00:00",
+            "pocetVyrobenychKusu": "3"
+          },
+          {
+            "datumVyroby": "2018-10-01T00:00:00",
+            "pocetVyrobenychKusu": "8"
+          },
+          {
+            "datumVyroby": "2018-11-01T00:00:00",
+            "pocetVyrobenychKusu": "28"
+          },
+          {
+            "datumVyroby": "2018-12-01T00:00:00",
+            "pocetVyrobenychKusu": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "klient": "GUMOTEX, a.s.",
+    "ic": "16355407",
+    "objednavky": [
+      {
+        "zakazka": "GU0001",
+        "dodavky": [
+          {
+            "datumVyroby": "2017-01-01T00:00:00",
+            "pocetVyrobenychKusu": "10"
+          },
+          {
+            "datumVyroby": "2017-02-01T00:00:00",
+            "pocetVyrobenychKusu": "12"
+          },
+          {
+            "datumVyroby": "2017-03-01T00:00:00",
+            "pocetVyrobenychKusu": "19"
+          },
+          {
+            "datumVyroby": "2017-04-01T00:00:00",
+            "pocetVyrobenychKusu": "10"
+          },
+          {
+            "datumVyroby": "2017-05-01T00:00:00",
+            "pocetVyrobenychKusu": "23"
+          },
+          {
+            "datumVyroby": "2017-06-01T00:00:00",
+            "pocetVyrobenychKusu": "22"
+          },
+          {
+            "datumVyroby": "2017-07-01T00:00:00",
+            "pocetVyrobenychKusu": "13"
+          },
+          {
+            "datumVyroby": "2017-08-01T00:00:00",
+            "pocetVyrobenychKusu": "6"
+          },
+          {
+            "datumVyroby": "2017-09-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          },
+          {
+            "datumVyroby": "2017-10-01T00:00:00",
+            "pocetVyrobenychKusu": "25"
+          },
+          {
+            "datumVyroby": "2017-11-01T00:00:00",
+            "pocetVyrobenychKusu": "2"
+          },
+          {
+            "datumVyroby": "2017-12-01T00:00:00",
+            "pocetVyrobenychKusu": "13"
+          },
+          {
+            "datumVyroby": "2018-01-01T00:00:00",
+            "pocetVyrobenychKusu": "0"
+          },
+          {
+            "datumVyroby": "2018-02-01T00:00:00",
+            "pocetVyrobenychKusu": "24"
+          },
+          {
+            "datumVyroby": "2018-03-01T00:00:00",
+            "pocetVyrobenychKusu": "22"
+          },
+          {
+            "datumVyroby": "2018-04-01T00:00:00",
+            "pocetVyrobenychKusu": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "klient": "Setos spol. s r.o.",
+    "ic": "46352163",
+    "objednavky": [
+      {
+        "zakazka": "SE0001",
+        "dodavky": [
+          {
+            "datumVyroby": "2017-01-01T00:00:00",
+            "pocetVyrobenychKusu": "18"
+          },
+          {
+            "datumVyroby": "2017-02-01T00:00:00",
+            "pocetVyrobenychKusu": "9"
+          },
+          {
+            "datumVyroby": "2017-03-01T00:00:00",
+            "pocetVyrobenychKusu": "14"
+          },
+          {
+            "datumVyroby": "2017-04-01T00:00:00",
+            "pocetVyrobenychKusu": "21"
+          },
+          {
+            "datumVyroby": "2017-05-01T00:00:00",
+            "pocetVyrobenychKusu": "22"
+          },
+          {
+            "datumVyroby": "2017-06-01T00:00:00",
+            "pocetVyrobenychKusu": "15"
+          },
+          {
+            "datumVyroby": "2017-07-01T00:00:00",
+            "pocetVyrobenychKusu": "12"
+          },
+          {
+            "datumVyroby": "2017-08-01T00:00:00",
+            "pocetVyrobenychKusu": "19"
+          },
+          {
+            "datumVyroby": "2017-09-01T00:00:00",
+            "pocetVyrobenychKusu": "0"
+          },
+          {
+            "datumVyroby": "2017-10-01T00:00:00",
+            "pocetVyrobenychKusu": "10"
+          },
+          {
+            "datumVyroby": "2017-11-01T00:00:00",
+            "pocetVyrobenychKusu": "11"
+          },
+          {
+            "datumVyroby": "2017-12-01T00:00:00",
+            "pocetVyrobenychKusu": "25"
+          },
+          {
+            "datumVyroby": "2018-01-01T00:00:00",
+            "pocetVyrobenychKusu": "13"
+          },
+          {
+            "datumVyroby": "2018-02-01T00:00:00",
+            "pocetVyrobenychKusu": "9"
+          },
+          {
+            "datumVyroby": "2018-03-01T00:00:00",
+            "pocetVyrobenychKusu": "21"
+          },
+          {
+            "datumVyroby": "2018-04-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "klient": "NNZ, a.s.",
+    "ic": "15472157",
+    "objednavky": [
+      {
+        "zakazka": "FA0001",
+        "dodavky": [
+          {
+            "datumVyroby": "2018-05-01T00:00:00",
+            "pocetVyrobenychKusu": "4"
+          },
+          {
+            "datumVyroby": "2018-06-01T00:00:00",
+            "pocetVyrobenychKusu": "3"
+          },
+          {
+            "datumVyroby": "2018-07-01T00:00:00",
+            "pocetVyrobenychKusu": "8"
+          },
+          {
+            "datumVyroby": "2018-08-01T00:00:00",
+            "pocetVyrobenychKusu": "64"
+          },
+          {
+            "datumVyroby": "2018-09-01T00:00:00",
+            "pocetVyrobenychKusu": "2"
+          },
+          {
+            "datumVyroby": "2018-10-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          },
+          {
+            "datumVyroby": "2018-11-01T00:00:00",
+            "pocetVyrobenychKusu": "2"
+          },
+          {
+            "datumVyroby": "2018-12-01T00:00:00",
+            "pocetVyrobenychKusu": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "klient": "Menteros, spol. s r.o.",
+    "ic": "46674795",
+    "objednavky": [
+      {
+        "zakazka": "GA0001",
+        "dodavky": [
+          {
+            "datumVyroby": "2018-04-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          },
+          {
+            "datumVyroby": "2018-05-01T00:00:00",
+            "pocetVyrobenychKusu": "49"
+          },
+          {
+            "datumVyroby": "2018-06-01T00:00:00",
+            "pocetVyrobenychKusu": "48"
+          },
+          {
+            "datumVyroby": "2018-07-01T00:00:00",
+            "pocetVyrobenychKusu": "34"
+          },
+          {
+            "datumVyroby": "2018-08-01T00:00:00",
+            "pocetVyrobenychKusu": "2"
+          },
+          {
+            "datumVyroby": "2018-09-01T00:00:00",
+            "pocetVyrobenychKusu": "47"
+          },
+          {
+            "datumVyroby": "2018-10-01T00:00:00",
+            "pocetVyrobenychKusu": "56"
+          },
+          {
+            "datumVyroby": "2018-11-01T00:00:00",
+            "pocetVyrobenychKusu": "24"
+          },
+          {
+            "datumVyroby": "2018-12-01T00:00:00",
+            "pocetVyrobenychKusu": "1"
+          }
+        ]
+      }
+    ]
+  }
+]
